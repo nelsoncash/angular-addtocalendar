@@ -20,7 +20,7 @@
     "downloadjs": "*"
   },
   "license": "MIT",
-  "homepage": "https://github.com/jshor/angular-addtocalendar",
+  "homepage": "https://github.com/nelsoncash/angular-addtocalendar",
   "ignore": [
     "**/.*",
     "node_modules",
